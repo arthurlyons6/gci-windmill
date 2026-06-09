@@ -1,5 +1,17 @@
 # Changelog
 
+## [1.722.0](https://github.com/windmill-labs/windmill/compare/v1.721.0...v1.722.0) (2026-06-09)
+
+
+### Features
+
+* **ai:** add list_runs and get_job_logs tools to global chat mode ([#9488](https://github.com/windmill-labs/windmill/issues/9488)) ([cfe5119](https://github.com/windmill-labs/windmill/commit/cfe51190356a9e922f6398dd875abc368accbd15))
+
+
+### Bug Fixes
+
+* inherit container NO_PROXY into MITM tracing proxy job exclusions ([#9492](https://github.com/windmill-labs/windmill/issues/9492)) ([4c22e3b](https://github.com/windmill-labs/windmill/commit/4c22e3b712a74828cf654ea7d89aeab5b50cfbd7))
+
 ## [1.721.0](https://github.com/windmill-labs/windmill/compare/v1.720.0...v1.721.0) (2026-06-09)
 
 
